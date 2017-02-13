@@ -50,7 +50,7 @@
             // 
             this.BBotonJubilacion.Location = new System.Drawing.Point(318, 197);
             this.BBotonJubilacion.Name = "BBotonJubilacion";
-            this.BBotonJubilacion.Size = new System.Drawing.Size(116, 85);
+            this.BBotonJubilacion.Size = new System.Drawing.Size(114, 81);
             this.BBotonJubilacion.TabIndex = 1;
             this.BBotonJubilacion.Text = "Jubilacion";
             this.BBotonJubilacion.UseVisualStyleBackColor = true;

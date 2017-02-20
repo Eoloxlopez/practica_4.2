@@ -12,16 +12,23 @@ namespace Trabajador
 {
     public partial class Form1 : Form
     {
+        Trabajador nuevoTrabajador = new Trabajador();
         public Form1()
         {
             InitializeComponent();
         }
+       
 
         private void BBotonCrear_Click(object sender, EventArgs e)
         {
-            Trabajador nuevoTrabajador;
+            nuevoTrabajador.Nombre = textBox1.Text;
+            nuevoTrabajador.Apellidos = textBox2.Text;
+            nuevoTrabajador.Edad = (int)nu1.Value;
+        }
 
-            nuevoTrabajador = new Trabajador();
+        private void BBotonJubilacion_Click(object sender, EventArgs e)
+        {
+            nuevoTrabajador.CalculoAnyosJubilacion();
         }
     }
 }

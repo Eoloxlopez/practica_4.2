@@ -1,0 +1,10 @@
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\bin\Debug\Trabajador.exe.config
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\bin\Debug\Trabajador.XML
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\bin\Debug\Trabajador.exe
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\bin\Debug\Trabajador.pdb
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.csprojResolveAssemblyReference.cache
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.Form1.resources
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.Properties.Resources.resources
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.csproj.GenerateResource.Cache
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.exe
+C:\Users\andres\Desktop\practica_4.2-master\Trabajador\obj\Debug\Trabajador.pdb
